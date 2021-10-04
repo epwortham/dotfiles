@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = etiennewortham@gmail.com
+	name = Etienne Wortham
